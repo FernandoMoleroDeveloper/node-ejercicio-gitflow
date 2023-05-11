@@ -1,1 +1,11 @@
-Holiiiii
+Español:
+
+Hola!
+
+Es un fichero de pureba
+
+English:
+
+Hi!
+
+This is a text file

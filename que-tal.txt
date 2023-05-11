@@ -1,1 +1,11 @@
-que tal
+Español:
+
+que tal?
+
+Es un fichero de pureba
+
+English:
+
+How are you?
+
+This is a text file
